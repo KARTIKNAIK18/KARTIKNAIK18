@@ -18,11 +18,11 @@ I’m passionate about building scalable, secure, and production-ready cloud inf
 - Python, JavaScript,java,c
 
 **Monitoring & Automation**  
-- (Learning)Gitlab  
+- (Learning) 
 
 ---
 
 ## 📫 How to reach me?
 
-[👨🏻‍💻 Connect on LinkedIn](https://linkedin.com/in/kartiknaik18)  
+  
 [💌 Email me](mailto:kartiknaik560@gmail.com)  
