@@ -9,13 +9,14 @@ I’m passionate about building scalable, secure, and production-ready cloud inf
 
 **Cloud & DevOps**  
 - AWS  
-- Docker & Containers  
+- Docker & Containers
+- kubernetes  
 - Git, GitHub Actions  
 - CI/CD Pipelines  
 - Linux & Shell Scripting  
 
 **Programming**  
-- Python, JavaScript,java,c
+- Python,java
 
 **Monitoring & Automation**  
 - (Learning) 
