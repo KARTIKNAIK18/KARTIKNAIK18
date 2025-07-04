@@ -26,18 +26,13 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
 
-  <!-- Top Languages & GitHub Stats -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKNAIK18&layout=compact&theme=dark" alt="Top Languages" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KARTIKNAIK18&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-  </div>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img style="height: 180px; width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKNAIK18&layout=compact&theme=dark" alt="Top Languages" />
+  <img style="height: 180px; width: 400px;" src="https://github-readme-stats.vercel.app/api?username=KARTIKNAIK18&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img style="height: 180px; width: 400px;" src="https://github-readme-streak-stats.herokuapp.com/?user=KARTIKNAIK18&theme=dark" alt="GitHub Streak" />
+</div>
 
-  <!-- GitHub Streak Stats -->
-  <div style="margin-top: 10px;">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KARTIKNAIK18&theme=dark" alt="GitHub Streak" />
-  </div>
 
   <!-- GitHub Summary Cards -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
