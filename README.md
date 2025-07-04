@@ -27,19 +27,28 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKNAIK18&layout=compact&theme=dark" alt=KARTIKNAIK18 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KARTIKNAIK18&show_icons=true&locale=en&theme=dark" alt="KARTIKNAIK18" /></p>
+  <!-- Top Languages & GitHub Stats -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKNAIK18&layout=compact&theme=dark" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KARTIKNAIK18&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  </div>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KARTIKNAIK18&theme=dark" alt="KARTIKNAIK18" /></p>
+  <!-- GitHub Streak Stats -->
+  <div style="margin-top: 10px;">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KARTIKNAIK18&theme=dark" alt="GitHub Streak" />
+  </div>
 
+  <!-- GitHub Summary Cards -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KARTIKNAIK18&theme=2077" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KARTIKNAIK18&theme=2077" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KARTIKNAIK18&theme=2077" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KARTIKNAIK18&theme=dark" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KARTIKNAIK18&theme=2077" height="180em" />
+  </div>
 
-<a href="https://github.com/KARTIKNAIK18">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KARTIKNAIK18&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KARTIKNAIK18&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KARTIKNAIK18&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KARTIKNAIK18&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KARTIKNAIK18&theme=2077" height="180em" />
 </div>
+
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
