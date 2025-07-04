@@ -1,7 +1,7 @@
 <!-- GitHub Profile Animation Only -->
 <!-- Animated SVG: Bottom-up style, no text -->
 <h1 align="center">Hi 👋, I'm Kartik</h1>
-<h3 align="center">I’m passionate about building scalable, secure, and production-ready cloud infrastructure using modern DevOps tools and best practices</h3>
+
 
 
 ## 🛠️ Skills
