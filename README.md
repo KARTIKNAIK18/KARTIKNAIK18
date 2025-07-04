@@ -34,7 +34,6 @@
     <img style="height: 200px; width: 400px; border: none;" 
          src="https://github-readme-stats.vercel.app/api?username=KARTIKNAIK18&theme=dark&hide_border=true&include_all_commits=false&count_private=false" 
          alt="GitHub Stats" />
-
     <img style="height: 200px; width: 400px; border: none;" 
          src="https://nirzak-streak-stats.vercel.app/?user=KARTIKNAIK18&theme=dark&hide_border=true" 
          alt="GitHub Streak" />
@@ -45,7 +44,6 @@
     <img style="height: 200px; width: 400px; border: none;" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKNAIK18&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
          alt="Top Languages" />
-
     <img style="height: 200px; width: 400px; border: none;" 
          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KARTIKNAIK18&theme=2077" 
          alt="Summary Card" />
