@@ -46,7 +46,7 @@
 
   <!-- Box 4: Optional filler or another stat -->
   <img style="height: 200px; width: 400px;" 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KARTIKNAIK18&theme=2077" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KARTIKNAIK18&theme=dark" 
        alt="GitHub Summary Stats" />
 
 </div>
