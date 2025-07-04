@@ -27,14 +27,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <div style="width: 400px; height: 200px; overflow: hidden;">
+<!-- Row 1 -->
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+  <div style="width: 320px; height: 160px; overflow: hidden;">
     <img style="width: 100%; height: 100%;" 
          src="https://github-readme-stats.vercel.app/api?username=KARTIKNAIK18&theme=dark&hide_border=true&include_all_commits=false&count_private=false" 
          alt="GitHub Stats" />
   </div>
-
-  <div style="width: 400px; height: 200px; overflow: hidden;">
+  <div style="width: 320px; height: 160px; overflow: hidden;">
     <img style="width: 100%; height: 100%;" 
          src="https://nirzak-streak-stats.vercel.app/?user=KARTIKNAIK18&theme=dark&hide_border=true" 
          alt="GitHub Streak" />
@@ -42,19 +42,19 @@
 </div>
 
 <!-- Row 2 -->
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-  <div style="width: 400px; height: 200px; overflow: hidden;">
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <div style="width: 320px; height: 160px; overflow: hidden;">
     <img style="width: 100%; height: 100%;" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKNAIK18&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKNAIK18&theme=dark&hide_border=true&layout=compact" 
          alt="Top Languages" />
   </div>
-
-  <div style="width: 400px; height: 200px; overflow: hidden;">
+  <div style="width: 320px; height: 160px; overflow: hidden;">
     <img style="width: 100%; height: 100%;" 
          src="https://github-readme-activity-graph.vercel.app/graph?username=KARTIKNAIK18&theme=github-dark" 
          alt="GitHub Activity Graph" />
   </div>
 </div>
+
 
 </div>
 
