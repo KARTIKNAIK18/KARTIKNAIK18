@@ -27,30 +27,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-
-  <!-- Row 1 -->
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-
-  <!-- Row 1 -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img style="height: 200px; width: 400px; border: none; box-shadow: none;" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKNAIK18&layout=compact&theme=dark" 
-         alt="Top Languages" />
-    <img style="height: 200px; width: 400px; border: none; box-shadow: none;" 
-         src="https://github-readme-stats.vercel.app/api?username=KARTIKNAIK18&show_icons=true&locale=en&theme=dark" 
-         alt="GitHub Stats" />
-  </div>
-
-  <!-- Row 2 -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img style="height: 200px; width: 400px; border: none; box-shadow: none;" 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=KARTIKNAIK18&theme=dark" 
-         alt="GitHub Streak" />
-    <img style="height: 200px; width: 400px; border: none; box-shadow: none;" 
-         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KARTIKNAIK18&theme=dark" 
-         alt="GitHub Summary Stats" />
-  </div>
+![](https://github-readme-stats.vercel.app/api?username=KARTIKNAIK18&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KARTIKNAIK18&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKNAIK18&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
