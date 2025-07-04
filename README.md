@@ -1,5 +1,6 @@
 <!-- GitHub Profile Animation Only -->
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<!-- Animated SVG: Bottom-up style, no text -->
+<img src="https://svg-banners.vercel.app/api?type=origin&width=1000&height=200" width="100%" />
 <h1 align="center">Hi 👋, I'm Kartik</h1>
 <h3 align="center">I’m passionate about building scalable, secure, and production-ready cloud infrastructure using modern DevOps tools and best practices</h3>
 
