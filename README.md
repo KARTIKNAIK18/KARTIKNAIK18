@@ -45,8 +45,9 @@
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKNAIK18&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
          alt="Top Languages" />
  <img style="height: 200px; width: 400px; border: none;" 
-     src="https://raw.githubusercontent.com/KARTIKNAIK18/KARTIKNAIK18/output/github-contribution-grid-snake.svg" 
-     alt="Contribution Snake" />
+     src="https://github-readme-activity-graph.vercel.app/graph?username=KARTIKNAIK18&theme=github-dark" 
+     alt="GitHub Activity Graph" />
+
 
   </div>
 
