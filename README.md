@@ -1,18 +1,21 @@
-<h1 align="center">Hi 👋, I'm Kartik</h1>
-<h3 align="center">I’m passionate about building scalable, secure, and production-ready ccloud infrastructure using modern DevOps tools and best practices</h3>
+# 💫 About Me:
+🔭 I’m currently working on Devops<br>👯 I’m looking to collaborate <br>🌱 I’m passionate about building scalable, secure, and production-ready cloud infrastructure using modern DevOps tools and best practices.<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartiknaik18&label=Profile%20views&color=0e75b6&style=flat" alt="kartiknaik18" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kartik naik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik naik" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kartik Naik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:x45961020@gmail.com) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KARTIKNAIK18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KARTIKNAIK18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKNAIK18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartiknaik18&show_icons=true&locale=en&layout=compact" alt="kartiknaik18" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartiknaik18&show_icons=true&locale=en" alt="kartiknaik18" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=KARTIKNAIK18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartiknaik18&" alt="kartiknaik18" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
