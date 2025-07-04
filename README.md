@@ -44,9 +44,10 @@
     <img style="height: 200px; width: 400px; border: none;" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKNAIK18&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
          alt="Top Languages" />
-  <img style="height: 200px; width: 400px; border: none;" 
-     src="https://ghchart.rshah.org/KARTIKNAIK18" 
-     alt="GitHub Contribution Graph" />
+ <img style="height: 200px; width: 400px; border: none;" 
+     src="https://raw.githubusercontent.com/KARTIKNAIK18/KARTIKNAIK18/output/github-contribution-grid-snake.svg" 
+     alt="Contribution Snake" />
+
   </div>
 
 </div>
