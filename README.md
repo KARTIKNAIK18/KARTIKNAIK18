@@ -3,9 +3,13 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
 
 <p align="center">
-  DevOps & Cloud enthusiast delivering practical, real-world solutions.Dedicated to clean code, automation, and streamlined workflows.Continuously learning, improving, and driving projects forward.
+  <b>DevOps & Cloud enthusiast</b> delivering <b>practical, real-world solutions.</b>
+  Dedicated to <b>clean code, automation,</b> and <b>streamlined workflows.</b>
+  Continuously <b>learning, improving,</b> and <b>driving projects forward.</b>
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Naereen/badges/master/animations/fade-in.gif" alt="fade-in animation" width="150" />
+</
 ## 🛠️ Skills
 
 # 💻 Tech Stack:
