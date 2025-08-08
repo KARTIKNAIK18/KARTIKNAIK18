@@ -2,9 +2,9 @@
 <!-- Animated SVG: Bottom-up style, no text -->
 <h1 align="center">Hi 👋, I'm Kartik</h1>
 
-DevOps & Cloud enthusiast delivering practical, real-world solutions.  
-Dedicated to clean code, automation, and streamlined workflows.  
-Continuously learning, improving, and driving projects forward.
+<p align="center">
+  DevOps & Cloud enthusiast delivering practical, real-world solutions.Dedicated to clean code, automation, and streamlined workflows.Continuously learning, improving, and driving projects forward.
+</p>
 
 ## 🛠️ Skills
 
