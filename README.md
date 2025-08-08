@@ -7,9 +7,7 @@
   Dedicated to <b>clean code, automation,</b> and <b>streamlined workflows.</b>
   Continuously <b>learning, improving,</b> and <b>driving projects forward.</b>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Naereen/badges/master/animations/fade-in.gif" alt="fade-in animation" width="150" />
-</p>
+
 ## 🛠️ Skills
 
 # 💻 Tech Stack:
