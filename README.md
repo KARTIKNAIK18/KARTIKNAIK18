@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 <!--DevOps & Cloud enthusiast delivering practical, real-world solutions. Dedicated to **clean code**, **automation**,and **streamlined workflows**.Passionate about **cloud-native design**,**CI/CD pipelines**,and **infrastructure as code**. Continuously learning, improving, and driving projects forward with a **problem-solving mindset** and a love for turning complex challenges into simple, scalable solutions.!--> 
-DevOps&Cloud enthusiast delivering practical, real-world solutions. Dedicated to **clean code**,**automation**,and streamlined workflows.Passionate about **cloud-native design**,**CI/CD pipelines**,and **infrastructure as code**,with a **problem-solving mindset** and a knack for turning complex challenges into simple, scalable solutions.
+DevOps&Cloud enthusiast delivering practical, real-world solutions. Dedicated to **automation**,and streamlined workflows.Passionate about **cloud-native design**,**CI/CD pipelines**,and **infrastructure as code**,with a **problem-solving mindset** and a knack for turning complex challenges into simple, scalable solutions.
 
 
 
@@ -68,7 +68,7 @@ DevOps&Cloud enthusiast delivering practical, real-world solutions. Dedicated to
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKNAIK18&theme=tokyonight&hide_border=true&layout=compact" width="400" height="200" />
 </td>
 <td>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KARTIKNAIK18&theme=tokyonight" width="400" height="200" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KARTIKNAIK18&theme=github-dark" width="400" height="200" />
 </td>
 </tr>
 </table>
