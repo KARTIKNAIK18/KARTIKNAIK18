@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=3DDC84&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Kartik+Naik;DevOps+%26+Cloud+Enthusiast;" alt="Animated typing: Hi I'm Kartik Naik" />
 </h1>
 
-
-## About Me
-
 <!--DevOps & Cloud enthusiast delivering practical, real-world solutions. Dedicated to **clean code**, **automation**,and **streamlined workflows**.Passionate about **cloud-native design**,**CI/CD pipelines**,and **infrastructure as code**. Continuously learning, improving, and driving projects forward with a **problem-solving mindset** and a love for turning complex challenges into simple, scalable solutions.!--> 
 DevOps&Cloud enthusiast delivering practical, real-world solutions. Dedicated to **automation**,and streamlined workflows.Passionate about **cloud-native design**,**CI/CD pipelines**,and **infrastructure as code**,with a **problem-solving mindset** and a knack for turning complex challenges into simple, scalable solutions.
 
