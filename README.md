@@ -23,3 +23,6 @@ motto: "Automate first, optimize later "
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KARTIKNAIK18&color=4F46E5&style=for-the-badge" alt="Profile Views" />
 </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,12,17,30&height=80&section=footer" width="100%" />
+</div>
