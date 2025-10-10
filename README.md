@@ -6,10 +6,8 @@
 
 DevOps enthusiast passionate about cloud infrastructure automation and containerization. Building scalable solutions while exploring modern DevOps practices and cloud-native technologies.
 
-```bash
+```console
 kartik@devops:~$ cat current_status.yml
-```
-```yaml
 focus: ["AWS", "Kubernetes", "Jenkins", "Terraform"]
 currently: "Building cloud-native solutions"
 learning: "Advanced GitOps & AI-driven DevOps"
