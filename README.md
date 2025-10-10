@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=450&height=60&lines=KARTIK+NAIK;Cloud+%26+DevOps+Enthusiast" alt="Header"/>
 </div>
 
-<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation"/>
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation"/>
 
 DevOps enthusiast passionate about cloud infrastructure automation and containerization. Building scalable solutions while exploring modern DevOps practices and cloud-native technologies.
 
@@ -13,7 +13,7 @@ kartik@devops:~$ cat current_status.yml
 focus: ["AWS", "Kubernetes", "Jenkins", "Terraform"]
 currently: "Building cloud-native solutions"
 learning: "Advanced GitOps & AI-driven DevOps"
-motto: "Automate first, optimize later 🚀"
+motto: "Automate first, optimize later "
 ```
 
 <div align="center">
