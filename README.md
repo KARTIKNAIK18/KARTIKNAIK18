@@ -8,9 +8,9 @@ DevOps enthusiast passionate about cloud infrastructure automation and container
 
 ```console
 kartik@devops:~$ cat current_status.yml
-focus: ["Cloud","devops","AI"]
+focus: ["Cloud","devops","Devlopment"]
 currently: "Building cloud-native solutions"
-learning: "Advanced GitOps & AI-driven DevOps"
+learning: "Advanced GitOps & devloping the software"
 motto: "Automate first, optimize later "
 ```
 
