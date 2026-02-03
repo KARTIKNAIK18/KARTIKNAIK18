@@ -4,9 +4,12 @@
 
 <img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation"/>
 
-DevOps enthusiast passionate about cloud infrastructure automation and containerization. Building scalable solutions while exploring modern DevOps practices and cloud-native technologies.
+```DevOps enthusiast passionate about cloud infrastructure automation and containerization. Building scalable solutions while exploring modern DevOps practices and cloud-native technologies.```
 
-```console
+
+
+
+```console 
 kartik@devops:~$ cat current_status.yml
 focus: ["Cloud","devops","Devlopment"]
 currently: "Building cloud-native solutions"
@@ -15,7 +18,7 @@ motto: "Automate first, optimize later "
 ```
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,jenkins,github,linux,python,java,mysql,mongodb,git,bash" width="620" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,jenkins,githubactions,github,linux,python,fastapi,java,mysql,mongodb,git,bash,gitlab,prometheus,grafana,nginx,postman,vim,vscode" width="620" />
 </div>
 
 <br>
